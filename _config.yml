@@ -1,0 +1,28 @@
+name: Test Site 55
+favicon: null
+layout_spectrum: 0.90039282431826
+typography_spectrum: 0.20072336262091994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12314021354541183
+  lightness: 0.24107369501143694
+  saturation: 0.5910478520672768
+  rhythmicContrast: 0.40818716678768396
+purpose: []
