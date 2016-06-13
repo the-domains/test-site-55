@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test Site 55]]></title>
         <description><![CDATA[Test Site 55]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site-55/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 05:03:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 03:37:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-55/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915bf634-e87b-4482-8726-35592078fc26.jpg">]]></description>
+            <link>https://thegrid.ai/test-site-55/0507d354-4606-4309-9f7c-08e100805b92/index.html</link>
+            <guid isPermaLink="false">0507d354-4606-4309-9f7c-08e100805b92</guid>
+            <pubDate>Mon, 13 Jun 2016 03:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5334871-9114-49f2-ab76-e483c2ae9b47.png">]]></description>
-            <link>undefinedwhat-is-the-difference-between-this-and-regular-website-buil/index.html</link>
+            <link>https://thegrid.ai/test-site-55/what-is-the-difference-between-this-and-regular-website-buil/index.html</link>
             <guid isPermaLink="false">12a6c1ce-f90b-4768-8cc1-b299bd879efb</guid>
             <pubDate>Fri, 11 Mar 2016 05:02:46 GMT</pubDate>
         </item>
